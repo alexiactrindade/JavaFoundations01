@@ -1,13 +1,9 @@
-import atividade1.Atividade1;
-import atividade1.Operadores;
-import atividade1.TipoDeDados;
+import atividade1.Strings;
 
 public class Main {
 
+
     public static void main(String[] args) {
-
-        Operadores.item2();
-
+        Strings.item5();
     }
-
 }
