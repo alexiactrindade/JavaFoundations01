@@ -98,7 +98,7 @@ public class Strings {
         System.out.println("numero1 (10) == numero2 (10)? " + (numero1 == numero2));
 
         // Se fossem números grandes (ex: 200), o resultado de == seria false!
-        Integer n3 = 200;
+        Integer n3 = 200
         Integer n4 = 200;
         System.out.println("n3 (200) == n4 (200)? " + (n3 == n4)); // Isso dará false
         System.out.println("Sempre use .equals para objetos: " + n3.equals(n4));
