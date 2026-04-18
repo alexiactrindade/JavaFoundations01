@@ -1,7 +1,11 @@
-import aula02.*;
+import aula2.Arrays;
 
 public class Main {
+
     public static void main(String[] args) {
-        aula02.Decisao.item4();
+
+        //Decisao.item3();
+        Arrays.item2();
     }
+
 }
