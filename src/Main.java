@@ -1,10 +1,7 @@
-import atividade1.Strings;
-import atividade1.Wrapper;
+import aula02.*;
 
 public class Main {
-
-
     public static void main(String[] args) {
-        Wrapper.item6();
+        aula02.Decisao.item2();
     }
 }
