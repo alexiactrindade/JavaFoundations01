@@ -1,9 +1,10 @@
 import atividade1.Strings;
+import atividade1.Wrapper;
 
 public class Main {
 
 
     public static void main(String[] args) {
-        Strings.item5();
+        Wrapper.item6();
     }
 }
