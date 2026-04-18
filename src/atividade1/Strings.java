@@ -5,20 +5,6 @@ import javax.swing.*; // Importa JOptionPane
 public class Strings {
 
     // O método main é o ponto de entrada do programa
-    public static void main(String[] args) {
-        // Você pode escolher qual item quer executar chamando o método aqui
-        System.out.println("--- Executando Item 1 ---");
-        item1();
-
-        System.out.println("\n--- Executando Item 2 ---");
-        item2();
-
-        System.out.println("\n--- Executando Item 3 ---");
-        item3();
-
-        System.out.println("\n--- Executando Item 5 ---");
-        item5();
-    }
 
     public static void item1() {
         String nome1 = "Alexia";
