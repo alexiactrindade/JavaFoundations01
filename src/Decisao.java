@@ -101,7 +101,10 @@ public class Decisao {
                         }
 
      // EXEMPLO RETIRANDO O BREAK
-     int nps = Integer.parseInt(JOptionPane.showInputDialog("Qual a sua nota (1 a 5): "));
+    }
+
+    public static void item3() {
+        int nps = Integer.parseInt(JOptionPane.showInputDialog("Qual a sua nota (1 a 5): "));
         switch(nps){
             case 1:
             case 2:
