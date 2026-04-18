@@ -48,7 +48,8 @@ public class Wrapper {
 
         System.out.println(numero);
 
-
+        System.out.println(Integer.toBinaryString(9777771));
+        System.out.println(Integer.toHexString(2111));
     }
 
 }
