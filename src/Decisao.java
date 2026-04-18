@@ -121,4 +121,15 @@ public class Decisao {
                 System.out.println("Opção inválida");
         }
     }
+
+    public static void item4() {
+        // Operador ternário
+
+         /*
+        condicao ? valorSeVerdadeiro : valorSeFalso;
+         */
+
+        int idade = 11;
+        System.out.println((idade>=18) ? "Maior ":"Menor " + "de idade");
+    }
 }
