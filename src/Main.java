@@ -1,12 +1,7 @@
-import aula2.Arrays;
-import aula2.Decisao;
+package aula03;
 
 public class Main {
-
-    public static void main(String[] args) {
-
-        //Decisao.item3();
-        Arrays.item1();
+    public static void main(String[] args) {  // ✅ String[] args fica AQUI!
+        Atividade09.executarCalculadora();
     }
-
 }
